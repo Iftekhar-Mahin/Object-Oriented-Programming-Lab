@@ -6,7 +6,7 @@ public:
     void prime()
     {
         int num;
-        int check = 11;
+        int check = 10;
         cin>>num;
         for(int i=2;i<num; i++)
         {
