@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-class SUB
+class P
 {
 public:
     void prime()
@@ -25,7 +25,7 @@ public:
 };
 int main()
 {
-    SUB obj;
+    P obj;
     obj.prime();
     return 0;
 }
